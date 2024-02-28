@@ -31,7 +31,15 @@ public class AnimalPicker2 {
                     System.out.println(" ( o.o )");
                     System.out.println("  > ^ <");
                     break;
-                
+             
+            }
+            else if (choice.equals("fish")) {
+                // Printed the ASCII are for fish
+                System.out.println("  ;,//;,    ,;/");
+                System.out.println(" o:::::::;;///");
+                System.out.println(">::::::::;;\\\\");
+                System.out.println("  ''\\\\\\\\\\'\" ';\\");
+                break;
             }
          }
     }
