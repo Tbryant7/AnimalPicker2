@@ -25,6 +25,14 @@ public class AnimalPicker2 {
                 
                 break;
             }
+                else if (choice.equals("cat")) {
+                    // Print ASCII art for cat
+                    System.out.println("  /\\_/\\");
+                    System.out.println(" ( o.o )");
+                    System.out.println("  > ^ <");
+                    break;
+                
+            }
          }
     }
 }
